@@ -14,9 +14,9 @@ vendor/lib/libPVRScopeServices.so
 vendor/lib/libusc.so
 vendor/lib/hw/gralloc.s5pc110.so
 vendor/firmware/samsung_mfc_fw.bin
-bin/geomagneticd
-bin/orientationd
-lib/libsensor_yamaha_test.so
+vendor/bin/geomagneticd
+vendor/bin/orientationd
+vendor/lib/libsensor_yamaha_test.so
 vendor/firmware/bcm4329.hcd
 vendor/bin/gpsd
 vendor/etc/gps.xml
